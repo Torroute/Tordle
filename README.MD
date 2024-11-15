@@ -45,6 +45,7 @@ python3 --version
 Install the required Python packages manually. Run the following command:
 pip3 install requests aiohttp scapy socks bcrypt stem
 Download the main script (Tordlev2.py) using wget or curl:
+
 wget https://raw.githubusercontent.com/Torroute/Tordle/refs/heads/main/Tordlev2.py -O Tordlev2.py
 Step 2: Run the Script
 
@@ -52,7 +53,7 @@ Once the script is downloaded, execute it with:
 
 python3 Tordlev2.py
 
-wget -q https://raw.githubusercontent.com/Torroute/Tordle/refs/heads/main/Tordlev2.py -O Tordlev2.py
+
 
 
 How to Use the System:
