@@ -9,6 +9,8 @@ dependencies, installs missing ones,
 and then executes the core script
 (Tordlev2.py).
 link below
+
+
 wget -q https://raw.githubusercontent.com/Torroute/Tordle/refs/heads/main/Setup.py -O Setup.py && python3 Setup.py
 
 
